@@ -4,7 +4,9 @@ In this exercise we will evaluate how three different strategies would have perf
 
 Strategies:
 
-Buy and Hold
-Buy at Open and Sell at Close
-Buy at Close and Sell at Open
+- Buy and Hold
+- Buy at Open and Sell at Close
+- Buy at Close and Sell at Open
+
 All data is obtained from Yahoo Finance and dividends and stock splits are ignored.
+All codes are original
