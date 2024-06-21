@@ -9,4 +9,4 @@ Strategies:
 - Buy at Close and Sell at Open
 
 All data is obtained from Yahoo Finance and dividends and stock splits are ignored.
-All codes are original
+All codes are original.
